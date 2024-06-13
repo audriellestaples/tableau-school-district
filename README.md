@@ -1,4 +1,4 @@
-# tableau-school-district
+# Tableau School District
 
 ## Description
 This repository contains Tableau projects showcasing data analysis and visualization skills.
